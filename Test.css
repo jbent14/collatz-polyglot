@@ -1,0 +1,36 @@
+body {
+  color: red;
+  background-color: #333;
+  border: solid;
+  margin: 2em;
+  font-family: 'Shadows Into Light', cursive;
+  }
+ 
+
+
+
+
+.myButton {
+	background-color:#c62d1f;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:28px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:-6px 5px 3px #810e05;
+}
+.myButton:hover {
+	background-color:#f24437;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
